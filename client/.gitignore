@@ -1,0 +1,15 @@
+# Dependencies
+node_modules/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Production build output
+dist/
+build/
+
+# Editor / OS
+.DS_Store
+*.local
